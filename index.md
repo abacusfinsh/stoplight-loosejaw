@@ -1,7 +1,10 @@
 ## STOPLIGHT LOOSEJAW
 
-a dogma for the diplomat.
-
+a 
+  dogma 
+       for 
+          the 
+             diplomat.
 
 ### FOREWORD
 Any poison of the mind serves the same for the body - a fickle intellect, an unclear head, leads the physical self to ruin. But who is anyone _really_ to say what is _really_ real lest someone find it _really_ upsetting? We can’t make such a decision on someone else’s behalf. Let’s not dwell on this ephemeral exterior; our tiresome and inescapable being. The building blocks of human life act as bricks in **T**he **H**ouse of the **T**angible **S**elf - and, in a way that is most certainly Lou Reedian, ‘I’m gonna move right in’.
