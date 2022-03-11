@@ -1,25 +1,42 @@
-## Welcome to GitHub Pages
+## STOPLIGHT LOOSEJAW
 
-You can use the [editor on GitHub](https://github.com/abacusfinsh/stoplight-loosejaw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+a dogma for the diplomat.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### FOREWORD
+Any poison of the mind serves the same for the body - a fickle intellect, an unclear head, leads the physical self to ruin. But who is anyone (really) to say what is (really) real lest someone find it (really) upsetting? We can’t make such a decision on someone else’s behalf. Let’s not dwell on this ephemeral exterior; our tiresome and inescapable being. The building blocks of human life act as bricks in The House of the Tangible Self - and, in a way that is most certainly Lou Reedian, ‘I’m gonna move right in’.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My heart beats a baseline thump. Isn’t that just strange? To be a real live instrument? a musical one, a torturous one, a measuring stick for the devastation of time and circumstance on matter? Blink once and you never experience it again, Buddhist. Blink twice and you fall ill to sin, Catholic. Blink three times and you appear a little startled; taken aback. Like this:
 
-```markdown
-Syntax highlighted code block
+"    ,▄██████████▄,             ¬               ,,
+               Γ  ,▄████████▓█▓╙█████▓▄▄▄,                       ╙m
+              ╛ ,▓█▓█▓▓╨╩╣╣▀▓▓∩,█▄▀╬╫▀▀╠███▌▄                      »
+              ,▓████╙╣█▓Φ▓█ .╟█▓W╗▓╟▐▌╨╚~╙██╙█▓▒δ
+           ' ▓████▓█▌▓▌.⌐╙██,╔▀╬▓▒▓.▄`╗╠üt██▄╙▌╬╣▓3▄      ~
+           ▄████▓▄,▓▓╜▓▄╓,Θ╙▓▓╣▀\-╜ε╬▀╠^æ▓▀╙╙M#╬╟█████▄    '~
+          ▐█████▌▒╢╩│",▐▒»-─╜≈⌐⌐╦⌐¬ƒ⌐¬╦╙╙╦;¬ƒ╗▄▄╦╦▄▄▄╠▀█▓╓
+          ██████▌╣▓███████████████▄▒▀▓██████████████████▓▓█µ   »~
+         ]████████▀▀███████████████"`╫██▌ '╙▀███████████████▓,    ε    `
+         ╟███████▌    ╙╠███████████▄▄╙███▄  `,▄▄▓██████████▌▄▓µ       :∩
+         ▓██████████▄▄███████████╬█  '▄╟███▓▓██████████████╫██▌       │⌐
+         ╫██╙█████▓⌐████████████▓ ∩  ]▓▌╙█████████████████▌▐██▌       ╠
+         ╡██∩╙██└███▓██████████▌▌]⌐   ▓▓╕╬███████████████▀.▐███   :
+          ╩█▌ ██▌⌐▀█▓▓███████▌"▐▌╟    ╙`   ╚▀▓▓█████████▀è⌐Å▀╟█▄  \
+          ╘╟█▌ ╟█ ╠▀╬▓█▓▓▌⌐^ ,φ▌      ,.╓╓   `≈╬╠╠╠╠▓▓╝^`  ▒,███
+           j███╟█▌ ^-       ▐╬▀▌@█▌µa╬▄▀▓▓,           .o∩ ▐█████µ     └
+           ▐██▌▐██       ,φ▓╩   ╙▀╫██▀████▓,         [$╛` ██████⌐   , b
+            Γ╙█µ██⌐   ÷ƒ░╫▀  ,ε▄╩ⁿ≈╬└ ª╝╩╠╙!        ,╚≥:⌐ █████,   «╩⌐Γ
+             ~╟███▌    ▒║  ╔Å╟╟╠-≈╙═σM ╙Ç,.╠"╓ .   .╠╫▒╩⌐ ██▀    ,@╣Γ
+               ╙███    `b │█▀▀▀╜"^7ε¬⌐²╩A▓▓▓▓▓▓^    ╠▓╠╧ ]█¬  ╒φ╫╣╬╜ ⌡
+                └███µ      └^    .╓╥▄╖▒┴¬╙╚╬ `     ╣╬▓▓¬▄█`  ▄╬▓╬▓╣  ⌐
+                  └███ -       `.≥∩╙╚▀╚Σⁿ        ▒╣█▓╠▓██   ▒╩▓▓╫▓╝ ,
+                    ╚███▄                      #▓█╠▓███▌   j╠╩╩└╓▄▄#`
+                     └████▄                  ▒▓▀▄█████╙       ╓███▀
+                       ███▄▀,            σφ╣╝▀▄████▀└,ε.    ç▓██▀
+                     »  ███ └▀▄▄  ~ⁿⁿ¬¬╙╚╫╠▄███▀╙  ≤      ,████▀╝⌂╖
+                    ~á╬Φ▐╟█▌  ╙▓█████████████▀ '#▀▒ , ,;ç▄███▓█▀▌Θ╙≈
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +45,3 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abacusfinsh/stoplight-loosejaw/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
